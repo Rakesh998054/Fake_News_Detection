@@ -1,5 +1,7 @@
 # AI-Powered Fake News Detection Using Text Classification
 
+## Deployed in Streamlit app : https://ai-power-fake-news-detection.streamlit.app/ .
+
 ## Project Overview
 
 Fake news is a major problem in today's digital world. This project uses Artificial Intelligence and Machine Learning techniques to automatically classify news articles as **Fake News** or **Real News**.
@@ -84,9 +86,17 @@ An ensemble learning algorithm that uses multiple decision trees for prediction.
 ### 4. Neural Network
 A deep learning model used to learn complex patterns in text data.
 
+
+<img width="1364" height="644" alt="real" src="https://github.com/user-attachments/assets/5a8cd55c-67b0-41fc-a726-1f96b2cbaff6" />
+
+<br><br><br>
+
+<img width="1366" height="641" alt="fake" src="https://github.com/user-attachments/assets/e9b5d976-4210-437e-b7aa-bbe87052b1ec" />
+
+
 ---
 
-## Project Workflow
+
 
 
 
