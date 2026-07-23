@@ -69,6 +69,7 @@ textarea{
 </style>
 """, unsafe_allow_html=True)
 
+
 # ---------- Load Model ----------
 vectorizer = joblib.load("vectorizer.jb")
 model = joblib.load("lr_model.jb")
