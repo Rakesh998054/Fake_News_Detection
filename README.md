@@ -1,8 +1,8 @@
-# AI-Powered Fake News Detection Using Text Classification
+# 🛡️AI-Powered Fake News Detection Using Text Classification
 
-## Deployed in Streamlit app : https://ai-power-fake-news-detection.streamlit.app/ .
+## Deployed in Streamlit app : https://ai-power-fake-news-detection.streamlit.app/ .🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
 
-## Project Overview
+## 📌Project Overview
 
 Fake news is a major problem in today's digital world. This project uses Artificial Intelligence and Machine Learning techniques to automatically classify news articles as **Fake News** or **Real News**.
 
@@ -10,7 +10,7 @@ The system uses Natural Language Processing (NLP) techniques to clean and conver
 
 ---
 
-## Objectives
+## 🎯Objectives
 
 - Detect whether a news article is fake or real
 - Apply NLP techniques for text preprocessing
@@ -44,7 +44,7 @@ Label:
 ### 2. True.csv
 Contains real news articles.
 
-Features:
+✨Features:
 
 - title: Title of the news article
 - text: Full news content
@@ -59,7 +59,7 @@ The two datasets are combined and used for machine learning classification.
 
 ---
 
-## Technologies Used
+## 🛠️Technologies Used
 
 - Python
 - Jupyter Notebook
